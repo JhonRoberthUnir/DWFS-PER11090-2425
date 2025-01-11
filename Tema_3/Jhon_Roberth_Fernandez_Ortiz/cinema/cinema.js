@@ -75,4 +75,3 @@ function getConsecutiveAvailableSeats(arr, reserva) {
     }
     return freeSeats;
 }
-
